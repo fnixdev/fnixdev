@@ -29,3 +29,5 @@
     <p align="center"> <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fnixdev.fnixdev&color=55acb7&style=for-the-badge&logo=Github"> </p>
   
 </div>
+
+<!-- lastfm -->
