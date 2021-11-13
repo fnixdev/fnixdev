@@ -30,5 +30,5 @@
   
 </div>
 <div><center><h2>🎶 ~ 𝕹𝖔𝖜 𝖑𝖎𝖘𝖙𝖊𝖓𝖎𝖓𝖌 ~ 🎶</h2>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=%5Bmsx%5D&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=%5Bmsx%5D&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=%5Bmsx%5D&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </center><div>
