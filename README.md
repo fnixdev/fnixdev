@@ -1,6 +1,6 @@
 <div>
 
-<h2 align="center">🧙🏻‍♂️ ~ 𝓐𝖇𝖔𝖚𝖙 𝖒𝖊 ~ 🧙🏻‍♂️</h2>
+<h2 align="center">🧙🏻‍♂️ ~ About me ~ 🧙🏻‍♂️</h2>
 <img src="https://i.imgur.com/NCxOohk.gif" width="150" height="150" align="right">
 <li>
 <b>ɴᴀᴍᴇ:</b> ʟᴜɪs</li>
@@ -16,7 +16,7 @@
 <br>
 <br>
 <div>
-<h2 align="center">🧙🏻‍♂️ ~ 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 / 𝕿𝖔𝖔𝖑𝖘 ~ 🧙🏻‍♂️</h2>
+<h2 align="center">🧙🏻‍♂️ ~ Languages / Tools ~ 🧙🏻‍♂️</h2>
 <img src="https://imgur.com/pubRaXq.gif" width="300" height="160" align="left">
 <br>
 <p align="center">
