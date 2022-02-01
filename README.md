@@ -1,32 +1,11 @@
 <div>
-
 <h2 align="center">🧙🏻‍♂️ ~ About me ~ 🧙🏻‍♂️</h2>
 <img src="https://i.imgur.com/NCxOohk.gif" width="150" height="150" align="right">
 <li>
-<b>ɴᴀᴍᴇ:</b> ʟᴜɪs</li>
+<b>𝙽𝚊𝚖𝚎:</b> 𝐋𝐮𝐢𝐬</li>
 <li>
-<b>ʟᴏᴠᴇs:</b> ☕️ ᴄᴏғғᴇᴇ ғɪʀsᴛ, ❤️ ᴋᴀɴɴᴀ sᴜᴘʀᴇᴍᴀᴄʏ</li>
+<b>𝙻𝚘𝚟𝚎𝚜:</b> ☕️ 𝐅𝐢𝐫𝐬𝐭 𝐜𝐨𝐟𝐟𝐞𝐞, 𝐊𝐚𝐧𝐧𝐚 𝐬𝐮𝐩𝐫𝐞𝐦𝐚𝐜𝐲</li>
 <li>
-<b>ʜᴏʙʙʏs:</b> 🐍 ᴘʏᴛʜᴏɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ, ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</li>
+<b>𝙷𝚘𝚋𝚋𝚒𝚎𝚜:</b> 🐍 𝐏𝐲𝐭𝐡𝐨𝐧 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠, 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭</li>
 <li>
-<b>ᴡᴏʀᴋɪɴɢ?:</b> 🧠 ʙʀᴀɪɴ ᴘᴀʀᴛɪᴀʟʟʏ ᴅᴇᴀᴅ
-</li>
-</div>
-<br>
-<br>
-<br>
-<div>
-<h2 align="center">🧙🏻‍♂️ ~ Languages / Tools ~ 🧙🏻‍♂️</h2>
-<img src="https://imgur.com/pubRaXq.gif" width="300" height="160" align="left">
-<br>
-<p align="center">
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt=""></a>
-    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset=""></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" srcset=""></a>
-    </p><p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" srcset=""></a>
-    <a href="https://guides.github.com/features/mastering-markdown/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="" srcset=""></a></p>
-    <p align="center"> <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fnixdev.fnixdev&color=55acb7&style=for-the-badge&logo=Github"> </p>
-  
-</div>
-
+<bl𝚆𝚘𝚛𝚔𝚒𝚗𝚐?:</b> 🧠 𝐩𝐚𝐫𝐭𝐢𝐚𝐥𝐥𝐲 𝐝𝐞𝐚𝐝 𝐛𝐫𝐚𝐢𝐧</li></div>
